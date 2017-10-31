@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QSC天气</string>
+    <string name="induction">欢迎使用QSC天气预报！</string>
+    <string name="induction2">请选择你所要查询的省份和城市，然后点击搜索。</string>
+    <string name="reference">数据来源：http://flash.weather.com.cn/</string>
+    <string name="sharing">我正在用QSC天气查看#C。今天的天气是#TQ，气温：#JRQW 当前气温：#DQQW 今日风向：#JRFX 当前风向：#DQFX 湿度：#SD。（#SJ）你也来用用吧！</string>
+</resources>
